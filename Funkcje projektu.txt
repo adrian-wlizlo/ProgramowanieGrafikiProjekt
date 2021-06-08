@@ -1,0 +1,15 @@
+Dostępny również w konsoli programu po kompilacji kodu
+----------------------------Opis funkcji---------------------------
++/- - przyblizenie/oddalenie sceny
+w/s - przesuniecie sceny do przodu/tylu
+a/d - przesuniecie sceny w lewo/prawo
+strzalka w gore - zwiekszenie predkosci
+strzalka w dol - zmniejszenie predkosci
+lewy ctrl - zmiana kierunku ruchu
+lewy alt - zmiana obiektu do sterowania na scenie (samochod, pociag)
+ppm - zmiana kamery
+lpm + ruch myszy - obrot sceny
+ruch myszy - zmiana koloru billboardu
+y/h - ruch baneru w prawo/lewo
+u/j - ruch baneru do przodu/tylu
+i/k - ruch baneru do gory/dolu
